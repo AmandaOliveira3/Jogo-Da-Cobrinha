@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*
+canvas {
+    display: flex;
+    justify-content: column;
+    align-items: center;
+    height: 100vh;
+}*/
+
+h1 {
+    padding-bottom: 20px;
+}
