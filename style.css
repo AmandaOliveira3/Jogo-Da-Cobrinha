@@ -3,14 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
-/*
-canvas {
+
+body {
     display: flex;
-    justify-content: column;
+    justify-content: center;
     align-items: center;
-    height: 100vh;
-}*/
+    height: 95vh;
+    width: 95vw;
+    flex-direction: column;
+    
+}
 
 h1 {
+    color: rgba(44,139,44);
     padding-bottom: 20px;
 }

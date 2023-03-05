@@ -1,2 +1,2 @@
-# Jogo-Da-Cobrinha
+# Jogo-Da-Cobrinha 🐍
 Criando um jogo da cobrinha com JavaScript
